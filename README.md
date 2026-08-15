@@ -5,7 +5,7 @@
 <h1 align="center">LotuzTV</h1>
 
 <p align="center">
-  <strong>Fast · LotuzTV — Premium IPTV Player for Android, Android TV & Fire TV.</strong><br>
+  <strong> LotuzTV — Premium IPTV Player for Android, Android TV & Fire TV.</strong><br>
   <em>Say goodbye to TiviMate and Telegram-based IPTV setups.</em>
 </p>
 
